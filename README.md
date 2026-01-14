@@ -7,3 +7,4 @@ Top Board control program with modification to reduce OLED wear.
 [Penta SATA HAT docs](https://docs.radxa.com/en/accessories/penta-sata-hat)
 
 ![penta-hat](images/penta-sata-hat.png)
+![top-board](images/RadxaPentaSATAHATTopBoard-319172_1920x1920.webp)
