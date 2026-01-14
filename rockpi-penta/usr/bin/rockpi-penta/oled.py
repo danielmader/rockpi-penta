@@ -104,7 +104,7 @@ def slider(lock):
         disp_show()
     # Clear the display after showing the slider page for a while
     misc.slider_sleep()
-    # disp.fill(0)
+    disp.fill(0)
     disp.show()
 
 
