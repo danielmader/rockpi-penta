@@ -1,9 +1,9 @@
-Package: rockpi-penta
-Version: 0.2
+Package: rockpi-penta-mod
+Version: 0.3
 Architecture: all
-Maintainer: Radxa <dev@radxa.com>
+Maintainer: damada (c) Radxa <dev@radxa.com>
 Depends: python3, python3-libgpiod, python3-pillow, python3-pip
 Section: utils
 Priority: optional
-Homepage: https://github.com/radxa/rockpi-penta
-Description: Rockpi Penta Hat
+Homepage: https://github.com/danielmader/rockpi-penta
+Description: Rockpi Penta Hat w/ OLED screensaver

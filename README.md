@@ -1,6 +1,6 @@
 # ROCK Pi Penta SATA
 
-Top Board control program
+Top Board control program with modification to reduce OLED wear.
 
 [Penta SATA HAT wiki](<https://wiki.radxa.com/Penta_SATA_HAT>)
 
