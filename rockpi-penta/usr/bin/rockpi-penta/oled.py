@@ -102,6 +102,10 @@ def slider(lock):
         for item in misc.slider_next(gen_pages()):
             draw.text(**item)
         disp_show()
+    # Clear the display after showing the slider page for a while
+    misc.slider_sleep()
+    # disp.fill(0)
+    disp.show()
 
 
 def auto_slider(lock):
